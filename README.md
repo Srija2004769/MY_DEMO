@@ -2,4 +2,3 @@
 This is my first git repository
 <br>
 BY srija kasuvojvala 
-in vs code
